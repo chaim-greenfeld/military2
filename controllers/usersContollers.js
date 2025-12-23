@@ -1,6 +1,5 @@
 import fs from "fs/promises";
 
-import express from "express";
 
 const PATH = "./data/targets.json";
 
@@ -15,7 +14,6 @@ export const findUserBycity = async (req, res) => {
   const data = await fs.readFile(PATH, "utf8");
   const users = JSON.parse(data);
   const cities = users.filter((u) => u.city === city);
-  const a = JSON.stringify(cities);
   res.status(200).json(cities);
 };
 

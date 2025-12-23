@@ -9,7 +9,7 @@ const route =  express.Router()
 
 route.get("/users", getUsers)
 
-route.get("/users,/earch",findUserBycity)
+route.get("/users/search",findUserBycity)
 
 route.get("/users/:id",getUserByID )
 

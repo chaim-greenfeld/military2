@@ -3,7 +3,7 @@
     "id": 1,
     "name": "David",
     "age": 25,
-    "city": "TelAviv"
+    "city": "Tel-Aviv"
   },
   {
     "id": 2,
@@ -31,27 +31,27 @@
   },
   {
     "id": 6,
-    "name": "David",
-    "age": 25,
-    "city": "Tel-Aviv"
+    "name": "haim",
+    "age": 20,
+    "city": "Elad"
   },
   {
     "id": 7,
-    "name": "David",
-    "age": 25,
-    "city": "Tel-Aviv"
+    "name": "haim",
+    "age": 20,
+    "city": "Elad"
   },
   {
     "id": 8,
-    "name": "David",
-    "age": 25,
-    "city": "Tel-Aviv"
+    "name": "haim",
+    "age": 20,
+    "city": "Elad"
   },
   {
     "id": 9,
-    "name": "David",
-    "age": 25,
-    "city": "Tel-Aviv"
+    "name": "haim",
+    "age": 20,
+    "city": "Elad"
   },
   {
     "id": 10,
@@ -67,18 +67,42 @@
   },
   {
     "id": 12,
+    "name": "haim",
+    "age": 25,
+    "city": "Elad"
+  },
+  {
+    "id": 17,
     "name": "David",
     "age": 25,
     "city": "Tel-Aviv"
   },
   {
-    "id": 16,
+    "id": 15,
     "name": "David",
     "age": 25,
     "city": "Tel-Aviv"
   },
   {
     "id": 17,
+    "name": "David",
+    "age": 25,
+    "city": "Tel-Aviv"
+  },
+  {
+    "id": 18,
+    "name": "David",
+    "age": 25,
+    "city": "Tel-Aviv"
+  },
+  {
+    "id": 19,
+    "name": "David",
+    "age": 25,
+    "city": "Tel-Aviv"
+  },
+  {
+    "id": 20,
     "name": "David",
     "age": 25,
     "city": "Tel-Aviv"

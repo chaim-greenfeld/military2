@@ -2,7 +2,8 @@ import express from "express"
 import usersRoutes from "./routes/usersRoutes.js"
 
 const app = express()
-const PORT = process.env.PORT || 3000
+const PORT = process.env.PORT
+
 
 app.use(express.json())
 
@@ -18,3 +19,4 @@ app.use("/",usersRoutes)
 app.listen(PORT, () => {
     console.log(`The server is run ${PORT}`)
 })
+
