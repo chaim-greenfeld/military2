@@ -5,9 +5,9 @@
   "main": "xcx.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon xcx.js",
-    "mili" : "nodemon military.js",
-    "mili2" : "nodemon davidExer.js"
+    "start":"node server.js",
+    "dev": "nodemon server.js",
+    "mili" : "nodemon military.js"
   },
   "keywords": [],
   "author": "",
