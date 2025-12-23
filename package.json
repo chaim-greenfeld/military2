@@ -1,0 +1,20 @@
+{
+  "name": "111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xcx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon xcx.js",
+    "mili" : "nodemon military.js",
+    "mili2" : "nodemon davidExer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
